@@ -1,6 +1,6 @@
-# Todo App
+# Open-Todo
 
-A simple Todo application with web and iOS support.
+An open source todo application with web and iOS support. Connect to your own server for complete data control.
 
 ## Tech Stack
 
