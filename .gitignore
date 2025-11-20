@@ -10,6 +10,11 @@ node_modules
 *.p12
 credentials.json
 
+# SSH 密钥（不应推送到仓库）
+id_rsa
+id_rsa.pub
+*.ppk
+
 # 构建输出
 dist
 build
